@@ -18,6 +18,7 @@ html, body {
     text-align: center;
     position: relative;
     top: -15%;
+    font-size: 20px;
 }
 
 .holder {
@@ -50,4 +51,9 @@ button {
 .btn-green {
     background: rgb(44, 209, 88);
     color: black;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
 }
